@@ -1,0 +1,175 @@
+Oyuncunun Adi : addwad
+Oyuncu ve bilgisayarin baslangic puani : 0
+
+OYUNA HOŞGELDİNİZ !! 
+
+Bilgisayarin elinde bulunan kartlar : Obus , Ucak , Firkateyn , Ucak , Firkateyn , Ucak , 
+Oyuncunun elinde bulunan kartlar : Firkateyn , Firkateyn , Firkateyn , Ucak , Obus , Firkateyn , 
+
+
+1. Tur 
+
+1. Bilgisayar Savasacak Kart : Obus
+1. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 15
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 10
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 10
+1. Tur ve 1. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+1. Tur ve  1. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+2. Bilgisayar Savasacak Kart : Ucak
+2. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :15
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 5
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 15
+1. Tur ve 2. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+1. Tur ve  2. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+3. Bilgisayar Savasacak Kart : Firkateyn
+3. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 15
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 15
+1. Tur ve 3. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+1. Tur ve  3. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+
+Bilgisayara 1 Yeni Kart Verildi . Yeni Kart : Firkateyn
+Oyuncuya 1 Yeni Kart Verildi . Yeni Kart : Ucak
+2. Tur 
+
+1. Bilgisayar Savasacak Kart : Ucak
+1. Oyuncu Savasacak Kart : Ucak
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 10
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 10
+2. Tur ve 1. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+2. Tur ve  1. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+2. Bilgisayar Savasacak Kart : Firkateyn
+2. Oyuncu Savasacak Kart : Obus
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :15
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 10
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 10
+2. Tur ve 2. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+2. Tur ve  2. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+3. Bilgisayar Savasacak Kart : Ucak
+3. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :15
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 5
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 15
+2. Tur ve 3. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+2. Tur ve  3. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+
+Bilgisayara 1 Yeni Kart Verildi . Yeni Kart : Firkateyn
+Oyuncuya 1 Yeni Kart Verildi . Yeni Kart : Firkateyn
+3. Tur 
+
+1. Bilgisayar Savasacak Kart : Firkateyn
+1. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 15
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 15
+3. Tur ve 1. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+3. Tur ve  1. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+2. Bilgisayar Savasacak Kart : Firkateyn
+2. Oyuncu Savasacak Kart : Ucak
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 15
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 15
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 5
+3. Tur ve 2. Savaş Sonucunda Bilgisayar Seviye Puanı : 0
+3. Tur ve  2. Savaş Sonucunda Oyuncu Seviye Puanı : 0
+
+3. Bilgisayar Savasacak Kart : Obus
+3. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 15
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 0
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 0
+3. Tur ve 3. Savaş Sonucunda Bilgisayar Seviye Puanı : 10
+3. Tur ve  3. Savaş Sonucunda Oyuncu Seviye Puanı : 10
+
+
+Bilgisayara 1 Yeni Kart Verildi . Yeni Kart : Obus
+Oyuncuya 1 Yeni Kart Verildi . Yeni Kart : Ucak
+4. Tur 
+
+1. Bilgisayar Savasacak Kart : Obus
+1. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 15
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 10
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 0
+4. Tur ve 1. Savaş Sonucunda Bilgisayar Seviye Puanı : 20
+4. Tur ve  1. Savaş Sonucunda Oyuncu Seviye Puanı : 10
+
+2. Bilgisayar Savasacak Kart : Firkateyn
+2. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 0
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 5
+4. Tur ve 2. Savaş Sonucunda Bilgisayar Seviye Puanı : 20
+4. Tur ve  2. Savaş Sonucunda Oyuncu Seviye Puanı : 20
+
+3. Bilgisayar Savasacak Kart : Ucak
+3. Oyuncu Savasacak Kart : Ucak
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 0
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 0
+4. Tur ve 3. Savaş Sonucunda Bilgisayar Seviye Puanı : 30
+4. Tur ve  3. Savaş Sonucunda Oyuncu Seviye Puanı : 30
+
+
+Bilgisayara 1 Yeni Kart Verildi . Yeni Kart : Ucak
+Oyuncuya 1 Yeni Kart Verildi . Yeni Kart : Siha
+5. Tur 
+
+1. Bilgisayar Savasacak Kart : Ucak
+1. Oyuncu Savasacak Kart : Siha
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 10
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 5
+5. Tur ve 1. Savaş Sonucunda Bilgisayar Seviye Puanı : 30
+5. Tur ve  1. Savaş Sonucunda Oyuncu Seviye Puanı : 30
+
+2. Bilgisayar Savasacak Kart : Firkateyn
+2. Oyuncu Savasacak Kart : Ucak
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 15
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 5
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 5
+5. Tur ve 2. Savaş Sonucunda Bilgisayar Seviye Puanı : 30
+5. Tur ve  2. Savaş Sonucunda Oyuncu Seviye Puanı : 30
+
+3. Bilgisayar Savasacak Kart : Firkateyn
+3. Oyuncu Savasacak Kart : Firkateyn
+Bilgisayar Kartinin Avantajlarla Birlikte Saldiri Degeri : 10
+Oyuncu Kartinin Avantajlarla Birlikte Saldiri Degeri :10
+Bilgisayar Kartinin Saldiri Sonucu Kalan Dayaniklilik : 5
+Oyuncu Kartinin Saldiri Sonucu Kalan Dayanıklılık : 5
+5. Tur ve 3. Savaş Sonucunda Bilgisayar Seviye Puanı : 30
+5. Tur ve  3. Savaş Sonucunda Oyuncu Seviye Puanı : 30
+
+
+
+İki Tarafında Skorları Eşit . Durum Berabere. Kalan Kartlarin Dayanıklıklarına Bakılacak.
+
+Hesaplamalar Sonucu Yeni Skorlar : 
+Bilgisayar skor : 30
+Oyuncu Skor : 45
+
+OYUNCU SAVAŞI KAZANDIII !!!
